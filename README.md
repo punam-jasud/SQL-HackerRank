@@ -1,3 +1,3 @@
 # SQL-HackerRank
 
-It Includes All SQL Queries of Hackerrank Problems .
+It Includes answers to SQL Queries on Hackerrank.
